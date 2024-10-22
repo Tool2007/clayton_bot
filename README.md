@@ -1,2 +1,2 @@
 # Seed_bot
-Tool clayton by Quang Thành 🇻🇳
+Tool Seed by Quang Thành 🇻🇳
